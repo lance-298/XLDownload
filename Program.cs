@@ -38,7 +38,6 @@ namespace XunleiDownloadDemo
             {
                 // 建立任务
                 //https://down5.huorong.cn/sysdiag-all-4.0.19.4.exe
-                //ftp://ygdy8:ygdy8@yg72.dydytt.net:8244/阳光电影www.ygdy8.com.分贝人生.BD.720p.国语中字.mkv
                 //http://192.168.0.65:8018//Video/2018-04-19/03705759-9FC0-4828-A895-BA8FD6ADEE38.mp4
                 //http://192.168.0.65:8018//Video/20180330/sample.mp4
                 var param = new XLApi.DownTaskParam()
